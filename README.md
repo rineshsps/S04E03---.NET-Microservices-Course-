@@ -1,4 +1,4 @@
-# S04E03---.NET-Microservices-Course-
+# .NET Microservices – Full Course
 Code for the Introduction to .NET Microservices
 
 .NET Microservices – Full Course
